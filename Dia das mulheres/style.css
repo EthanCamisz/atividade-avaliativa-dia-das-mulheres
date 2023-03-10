@@ -1,0 +1,137 @@
+body{
+    background-color: #93BFCF;
+}
+.area-cabecalho{
+    padding: 4.5rem;
+    background-color: #6096B4;
+    text-align: center;
+}
+.she{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+    font-size: 30px;
+}
+.caixa{
+    border-radius: 10%;
+    position: absolute;
+    background-color: #6096B4;
+    height: 500px;
+    width: 400px;
+    top: 400px;
+    left: 770px;
+    right: 0px;
+}
+.woman{
+    position: absolute;
+    height: 200px;
+    width: 200px;
+    top: 420px;
+    left: 870px;
+    right: 0px;
+    border-radius: 50%;
+}
+.angela{
+    text-align: center;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    height: 370px;
+    width: 380px;
+    top: 400px;
+    left: 140px;
+    right: 0px;
+}
+.angela2{
+    text-align: center;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    height: 370px;
+    width: 300px;
+    top: 400px;
+    left: 1400px;
+    right: 0px;
+
+}
+.info{
+    color: white;
+    position: absolute;
+    height: 500px;
+    width: 400px;
+    top: 680px;
+    left: 940px;
+    right: 0px;
+}
+.infoone{
+    color: white;
+    position: absolute;
+    height: 500px;
+    width: 400px;
+    top: 610px;
+    left: 860px;
+    right: 0px;
+}
+.infotwo{
+    text-align: center;
+    color: white;
+    position: absolute;
+    height: 400px;
+    width: 300px;
+    top: 710px;
+    left: 820px;
+    right: 0px;
+}
+.back{
+    position: absolute;
+    top: 1200px;
+    height: 700px;
+    width: 1000px;
+}
+.quadrado{
+    border-radius: 0%;
+    position: absolute;
+    background-color: #6096B4;
+    left: 1020px;
+    position: absolute;
+    top: 1200px;
+    height: 700px;
+    width: 870px;
+}
+.mucho{
+color: white;
+text-align: center;
+    left: 1060px;
+    position: absolute;
+    top: 1290px;
+    height: 700px;
+    width: 800px;
+}
+.texto{
+    color: white;
+text-align: center;
+    left: 1060px;
+    position: absolute;
+    top: 1520px;
+    height: 700px;
+    width: 800px;
+}
+.fim{
+    left: 0px;
+    align-items: end;
+    position: absolute;
+    top: 2140px;
+    height: 200px;
+    width: 1900px;
+    background-color:#6096B4;
+}
+.final{
+    top:  100px;
+    right: 0px;
+    color: white;
+    left: 740px;
+    text-align: center;
+    position: absolute;
+    height: 20px;
+    width: 400px;
+}
